@@ -1,0 +1,11 @@
+D:\aulas C#\Excecao\obj\Debug\netcoreapp3.1\Excecao.csprojAssemblyReference.cache
+D:\aulas C#\Excecao\obj\Debug\netcoreapp3.1\Excecao.AssemblyInfoInputs.cache
+D:\aulas C#\Excecao\obj\Debug\netcoreapp3.1\Excecao.AssemblyInfo.cs
+D:\aulas C#\Excecao\bin\Debug\netcoreapp3.1\Excecao.exe
+D:\aulas C#\Excecao\bin\Debug\netcoreapp3.1\Excecao.deps.json
+D:\aulas C#\Excecao\bin\Debug\netcoreapp3.1\Excecao.runtimeconfig.json
+D:\aulas C#\Excecao\bin\Debug\netcoreapp3.1\Excecao.runtimeconfig.dev.json
+D:\aulas C#\Excecao\bin\Debug\netcoreapp3.1\Excecao.dll
+D:\aulas C#\Excecao\bin\Debug\netcoreapp3.1\Excecao.pdb
+D:\aulas C#\Excecao\obj\Debug\netcoreapp3.1\Excecao.dll
+D:\aulas C#\Excecao\obj\Debug\netcoreapp3.1\Excecao.pdb

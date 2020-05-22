@@ -1,0 +1,11 @@
+D:\aulas C#\ExcecaoPersonalizada\obj\Debug\netcoreapp3.1\ExcecaoPersonalizada.csprojAssemblyReference.cache
+D:\aulas C#\ExcecaoPersonalizada\obj\Debug\netcoreapp3.1\ExcecaoPersonalizada.AssemblyInfoInputs.cache
+D:\aulas C#\ExcecaoPersonalizada\obj\Debug\netcoreapp3.1\ExcecaoPersonalizada.AssemblyInfo.cs
+D:\aulas C#\ExcecaoPersonalizada\bin\Debug\netcoreapp3.1\ExcecaoPersonalizada.exe
+D:\aulas C#\ExcecaoPersonalizada\bin\Debug\netcoreapp3.1\ExcecaoPersonalizada.deps.json
+D:\aulas C#\ExcecaoPersonalizada\bin\Debug\netcoreapp3.1\ExcecaoPersonalizada.runtimeconfig.json
+D:\aulas C#\ExcecaoPersonalizada\bin\Debug\netcoreapp3.1\ExcecaoPersonalizada.runtimeconfig.dev.json
+D:\aulas C#\ExcecaoPersonalizada\bin\Debug\netcoreapp3.1\ExcecaoPersonalizada.dll
+D:\aulas C#\ExcecaoPersonalizada\bin\Debug\netcoreapp3.1\ExcecaoPersonalizada.pdb
+D:\aulas C#\ExcecaoPersonalizada\obj\Debug\netcoreapp3.1\ExcecaoPersonalizada.dll
+D:\aulas C#\ExcecaoPersonalizada\obj\Debug\netcoreapp3.1\ExcecaoPersonalizada.pdb
