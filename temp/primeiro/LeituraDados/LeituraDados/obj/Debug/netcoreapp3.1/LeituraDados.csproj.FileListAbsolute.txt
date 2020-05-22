@@ -1,0 +1,10 @@
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\bin\Debug\netcoreapp3.1\LeituraDados.exe
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\bin\Debug\netcoreapp3.1\LeituraDados.deps.json
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\bin\Debug\netcoreapp3.1\LeituraDados.runtimeconfig.json
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\bin\Debug\netcoreapp3.1\LeituraDados.runtimeconfig.dev.json
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\bin\Debug\netcoreapp3.1\LeituraDados.dll
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\bin\Debug\netcoreapp3.1\LeituraDados.pdb
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\obj\Debug\netcoreapp3.1\LeituraDados.AssemblyInfoInputs.cache
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\obj\Debug\netcoreapp3.1\LeituraDados.AssemblyInfo.cs
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\obj\Debug\netcoreapp3.1\LeituraDados.dll
+E:\aulas C#\temp\primeiro\LeituraDados\LeituraDados\obj\Debug\netcoreapp3.1\LeituraDados.pdb

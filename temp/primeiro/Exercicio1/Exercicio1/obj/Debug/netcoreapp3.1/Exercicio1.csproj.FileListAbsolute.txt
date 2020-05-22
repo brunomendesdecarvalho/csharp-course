@@ -1,0 +1,11 @@
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+E:\aulas C#\temp\primeiro\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb

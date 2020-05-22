@@ -1,0 +1,10 @@
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\bin\Debug\netcoreapp3.1\LeituraDadosPt2.exe
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\bin\Debug\netcoreapp3.1\LeituraDadosPt2.deps.json
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\bin\Debug\netcoreapp3.1\LeituraDadosPt2.runtimeconfig.json
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\bin\Debug\netcoreapp3.1\LeituraDadosPt2.runtimeconfig.dev.json
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\bin\Debug\netcoreapp3.1\LeituraDadosPt2.dll
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\bin\Debug\netcoreapp3.1\LeituraDadosPt2.pdb
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\obj\Debug\netcoreapp3.1\LeituraDadosPt2.AssemblyInfoInputs.cache
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\obj\Debug\netcoreapp3.1\LeituraDadosPt2.AssemblyInfo.cs
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\obj\Debug\netcoreapp3.1\LeituraDadosPt2.dll
+E:\aulas C#\temp\primeiro\LeituraDadosPt2\LeituraDadosPt2\obj\Debug\netcoreapp3.1\LeituraDadosPt2.pdb

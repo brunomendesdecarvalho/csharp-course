@@ -1,0 +1,11 @@
+D:\aulas C#\Abstrata\obj\Debug\netcoreapp3.1\Abstrata.csprojAssemblyReference.cache
+D:\aulas C#\Abstrata\obj\Debug\netcoreapp3.1\Abstrata.AssemblyInfoInputs.cache
+D:\aulas C#\Abstrata\obj\Debug\netcoreapp3.1\Abstrata.AssemblyInfo.cs
+D:\aulas C#\Abstrata\bin\Debug\netcoreapp3.1\Abstrata.exe
+D:\aulas C#\Abstrata\bin\Debug\netcoreapp3.1\Abstrata.deps.json
+D:\aulas C#\Abstrata\bin\Debug\netcoreapp3.1\Abstrata.runtimeconfig.json
+D:\aulas C#\Abstrata\bin\Debug\netcoreapp3.1\Abstrata.runtimeconfig.dev.json
+D:\aulas C#\Abstrata\bin\Debug\netcoreapp3.1\Abstrata.dll
+D:\aulas C#\Abstrata\bin\Debug\netcoreapp3.1\Abstrata.pdb
+D:\aulas C#\Abstrata\obj\Debug\netcoreapp3.1\Abstrata.dll
+D:\aulas C#\Abstrata\obj\Debug\netcoreapp3.1\Abstrata.pdb

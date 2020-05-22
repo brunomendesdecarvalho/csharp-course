@@ -1,0 +1,11 @@
+D:\aulas C#\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.csprojAssemblyReference.cache
+D:\aulas C#\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.AssemblyInfoInputs.cache
+D:\aulas C#\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.AssemblyInfo.cs
+D:\aulas C#\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.exe
+D:\aulas C#\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.deps.json
+D:\aulas C#\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.runtimeconfig.json
+D:\aulas C#\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.runtimeconfig.dev.json
+D:\aulas C#\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.dll
+D:\aulas C#\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.pdb
+D:\aulas C#\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.dll
+D:\aulas C#\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.pdb
