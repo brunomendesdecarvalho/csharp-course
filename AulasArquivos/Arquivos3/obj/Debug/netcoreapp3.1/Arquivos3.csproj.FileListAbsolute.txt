@@ -1,0 +1,11 @@
+D:\aulas C#\Arquivos3\bin\Debug\netcoreapp3.1\Arquivos3.exe
+D:\aulas C#\Arquivos3\bin\Debug\netcoreapp3.1\Arquivos3.deps.json
+D:\aulas C#\Arquivos3\bin\Debug\netcoreapp3.1\Arquivos3.runtimeconfig.json
+D:\aulas C#\Arquivos3\bin\Debug\netcoreapp3.1\Arquivos3.runtimeconfig.dev.json
+D:\aulas C#\Arquivos3\bin\Debug\netcoreapp3.1\Arquivos3.dll
+D:\aulas C#\Arquivos3\bin\Debug\netcoreapp3.1\Arquivos3.pdb
+D:\aulas C#\Arquivos3\obj\Debug\netcoreapp3.1\Arquivos3.csprojAssemblyReference.cache
+D:\aulas C#\Arquivos3\obj\Debug\netcoreapp3.1\Arquivos3.AssemblyInfoInputs.cache
+D:\aulas C#\Arquivos3\obj\Debug\netcoreapp3.1\Arquivos3.AssemblyInfo.cs
+D:\aulas C#\Arquivos3\obj\Debug\netcoreapp3.1\Arquivos3.dll
+D:\aulas C#\Arquivos3\obj\Debug\netcoreapp3.1\Arquivos3.pdb

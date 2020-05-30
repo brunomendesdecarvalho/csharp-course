@@ -1,0 +1,11 @@
+D:\aulas C#\AulasArquivos\ExArquivos\obj\Debug\netcoreapp3.1\ExArquivos.csprojAssemblyReference.cache
+D:\aulas C#\AulasArquivos\ExArquivos\obj\Debug\netcoreapp3.1\ExArquivos.AssemblyInfoInputs.cache
+D:\aulas C#\AulasArquivos\ExArquivos\obj\Debug\netcoreapp3.1\ExArquivos.AssemblyInfo.cs
+D:\aulas C#\AulasArquivos\ExArquivos\bin\Debug\netcoreapp3.1\ExArquivos.exe
+D:\aulas C#\AulasArquivos\ExArquivos\bin\Debug\netcoreapp3.1\ExArquivos.deps.json
+D:\aulas C#\AulasArquivos\ExArquivos\bin\Debug\netcoreapp3.1\ExArquivos.runtimeconfig.json
+D:\aulas C#\AulasArquivos\ExArquivos\bin\Debug\netcoreapp3.1\ExArquivos.runtimeconfig.dev.json
+D:\aulas C#\AulasArquivos\ExArquivos\bin\Debug\netcoreapp3.1\ExArquivos.dll
+D:\aulas C#\AulasArquivos\ExArquivos\bin\Debug\netcoreapp3.1\ExArquivos.pdb
+D:\aulas C#\AulasArquivos\ExArquivos\obj\Debug\netcoreapp3.1\ExArquivos.dll
+D:\aulas C#\AulasArquivos\ExArquivos\obj\Debug\netcoreapp3.1\ExArquivos.pdb
