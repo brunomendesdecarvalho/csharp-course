@@ -1,0 +1,13 @@
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.csprojAssemblyReference.cache
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.AssemblyInfoInputs.cache
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.AssemblyInfo.cs
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.csproj.CoreCompileInputs.cache
+D:\aulas C#\Interfaces\ExComInterface\bin\Debug\netcoreapp3.1\ExComInterface.exe
+D:\aulas C#\Interfaces\ExComInterface\bin\Debug\netcoreapp3.1\ExComInterface.deps.json
+D:\aulas C#\Interfaces\ExComInterface\bin\Debug\netcoreapp3.1\ExComInterface.runtimeconfig.json
+D:\aulas C#\Interfaces\ExComInterface\bin\Debug\netcoreapp3.1\ExComInterface.runtimeconfig.dev.json
+D:\aulas C#\Interfaces\ExComInterface\bin\Debug\netcoreapp3.1\ExComInterface.dll
+D:\aulas C#\Interfaces\ExComInterface\bin\Debug\netcoreapp3.1\ExComInterface.pdb
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.dll
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.pdb
+D:\aulas C#\Interfaces\ExComInterface\obj\Debug\netcoreapp3.1\ExComInterface.genruntimeconfig.cache
