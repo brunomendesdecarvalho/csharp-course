@@ -1,0 +1,13 @@
+D:\aulas C#\Interfaces\IComp\IComp\IComp\bin\Debug\netcoreapp3.1\IComp.exe
+D:\aulas C#\Interfaces\IComp\IComp\IComp\bin\Debug\netcoreapp3.1\IComp.deps.json
+D:\aulas C#\Interfaces\IComp\IComp\IComp\bin\Debug\netcoreapp3.1\IComp.runtimeconfig.json
+D:\aulas C#\Interfaces\IComp\IComp\IComp\bin\Debug\netcoreapp3.1\IComp.runtimeconfig.dev.json
+D:\aulas C#\Interfaces\IComp\IComp\IComp\bin\Debug\netcoreapp3.1\IComp.dll
+D:\aulas C#\Interfaces\IComp\IComp\IComp\bin\Debug\netcoreapp3.1\IComp.pdb
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.csprojAssemblyReference.cache
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.AssemblyInfoInputs.cache
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.AssemblyInfo.cs
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.csproj.CoreCompileInputs.cache
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.dll
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.pdb
+D:\aulas C#\Interfaces\IComp\IComp\IComp\obj\Debug\netcoreapp3.1\IComp.genruntimeconfig.cache
