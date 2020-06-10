@@ -1,0 +1,13 @@
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.exe
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.deps.json
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.runtimeconfig.json
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.runtimeconfig.dev.json
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.dll
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\bin\Debug\netcoreapp3.1\ExDictionary.pdb
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.AssemblyInfoInputs.cache
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.AssemblyInfo.cs
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.csproj.CoreCompileInputs.cache
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.dll
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.pdb
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.genruntimeconfig.cache
+D:\aulas C#\ExDictionary\ExDictionary\ExDictionary\obj\Debug\netcoreapp3.1\ExDictionary.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\bin\Debug\netcoreapp3.1\HashSortedSetUm.exe
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\bin\Debug\netcoreapp3.1\HashSortedSetUm.deps.json
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\bin\Debug\netcoreapp3.1\HashSortedSetUm.runtimeconfig.json
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\bin\Debug\netcoreapp3.1\HashSortedSetUm.runtimeconfig.dev.json
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\bin\Debug\netcoreapp3.1\HashSortedSetUm.dll
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\bin\Debug\netcoreapp3.1\HashSortedSetUm.pdb
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.csprojAssemblyReference.cache
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.AssemblyInfoInputs.cache
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.AssemblyInfo.cs
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.csproj.CoreCompileInputs.cache
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.dll
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.pdb
+D:\aulas C#\HashSortedSet\HashSortedSetUm\HashSortedSetUm\obj\Debug\netcoreapp3.1\HashSortedSetUm.genruntimeconfig.cache

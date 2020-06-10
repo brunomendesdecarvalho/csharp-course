@@ -1,0 +1,13 @@
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\bin\Debug\netcoreapp3.1\GenRestricao.exe
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\bin\Debug\netcoreapp3.1\GenRestricao.deps.json
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\bin\Debug\netcoreapp3.1\GenRestricao.runtimeconfig.json
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\bin\Debug\netcoreapp3.1\GenRestricao.runtimeconfig.dev.json
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\bin\Debug\netcoreapp3.1\GenRestricao.dll
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\bin\Debug\netcoreapp3.1\GenRestricao.pdb
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.csprojAssemblyReference.cache
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.AssemblyInfoInputs.cache
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.AssemblyInfo.cs
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.csproj.CoreCompileInputs.cache
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.dll
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.pdb
+D:\aulas C#\GenSetDict\GenRestricao\GenRestricao\obj\Debug\netcoreapp3.1\GenRestricao.genruntimeconfig.cache

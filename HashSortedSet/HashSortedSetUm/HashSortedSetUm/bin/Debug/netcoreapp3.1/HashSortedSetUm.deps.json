@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashSortedSetUm/1.0.0": {
+        "runtime": {
+          "HashSortedSetUm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashSortedSetUm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

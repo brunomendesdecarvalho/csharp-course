@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExConjuntosDois", "ExConjuntosDois\ExConjuntosDois.csproj", "{2F9A792D-9956-4AF2-A9DB-B0B05191569D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9A792D-9956-4AF2-A9DB-B0B05191569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9A792D-9956-4AF2-A9DB-B0B05191569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9A792D-9956-4AF2-A9DB-B0B05191569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9A792D-9956-4AF2-A9DB-B0B05191569D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450362F2-81B4-4D9F-AF7A-5DCC1E26334A}
+	EndGlobalSection
+EndGlobal

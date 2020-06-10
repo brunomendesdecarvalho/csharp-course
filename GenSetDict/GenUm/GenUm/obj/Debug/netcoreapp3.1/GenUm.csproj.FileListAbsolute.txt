@@ -1,0 +1,13 @@
+D:\aulas C#\GenSetDict\GenUm\GenUm\bin\Debug\netcoreapp3.1\GenUm.exe
+D:\aulas C#\GenSetDict\GenUm\GenUm\bin\Debug\netcoreapp3.1\GenUm.deps.json
+D:\aulas C#\GenSetDict\GenUm\GenUm\bin\Debug\netcoreapp3.1\GenUm.runtimeconfig.json
+D:\aulas C#\GenSetDict\GenUm\GenUm\bin\Debug\netcoreapp3.1\GenUm.runtimeconfig.dev.json
+D:\aulas C#\GenSetDict\GenUm\GenUm\bin\Debug\netcoreapp3.1\GenUm.dll
+D:\aulas C#\GenSetDict\GenUm\GenUm\bin\Debug\netcoreapp3.1\GenUm.pdb
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.csprojAssemblyReference.cache
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.AssemblyInfoInputs.cache
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.AssemblyInfo.cs
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.csproj.CoreCompileInputs.cache
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.dll
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.pdb
+D:\aulas C#\GenSetDict\GenUm\GenUm\obj\Debug\netcoreapp3.1\GenUm.genruntimeconfig.cache

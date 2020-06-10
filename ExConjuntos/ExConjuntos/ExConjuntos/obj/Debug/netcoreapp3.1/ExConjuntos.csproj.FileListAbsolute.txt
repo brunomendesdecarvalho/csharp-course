@@ -1,0 +1,13 @@
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.csprojAssemblyReference.cache
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.AssemblyInfoInputs.cache
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.AssemblyInfo.cs
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.csproj.CoreCompileInputs.cache
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.exe
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.deps.json
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.runtimeconfig.json
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.runtimeconfig.dev.json
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.dll
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.pdb
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.dll
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.pdb
+D:\aulas C#\ExConjuntos\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\bin\Debug\netcoreapp3.1\HashSortedSetDois.exe
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\bin\Debug\netcoreapp3.1\HashSortedSetDois.deps.json
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\bin\Debug\netcoreapp3.1\HashSortedSetDois.runtimeconfig.json
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\bin\Debug\netcoreapp3.1\HashSortedSetDois.runtimeconfig.dev.json
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\bin\Debug\netcoreapp3.1\HashSortedSetDois.dll
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\bin\Debug\netcoreapp3.1\HashSortedSetDois.pdb
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\obj\Debug\netcoreapp3.1\HashSortedSetDois.AssemblyInfoInputs.cache
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\obj\Debug\netcoreapp3.1\HashSortedSetDois.AssemblyInfo.cs
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\obj\Debug\netcoreapp3.1\HashSortedSetDois.csproj.CoreCompileInputs.cache
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\obj\Debug\netcoreapp3.1\HashSortedSetDois.dll
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\obj\Debug\netcoreapp3.1\HashSortedSetDois.pdb
+D:\aulas C#\HashSortedSet\HashSortedSetDois\HashSortedSetDois\obj\Debug\netcoreapp3.1\HashSortedSetDois.genruntimeconfig.cache
