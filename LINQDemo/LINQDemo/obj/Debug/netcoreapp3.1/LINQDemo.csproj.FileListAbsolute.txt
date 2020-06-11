@@ -1,0 +1,13 @@
+D:\aulas C#\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.exe
+D:\aulas C#\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.deps.json
+D:\aulas C#\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.json
+D:\aulas C#\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.dev.json
+D:\aulas C#\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.dll
+D:\aulas C#\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.pdb
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csprojAssemblyReference.cache
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfoInputs.cache
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfo.cs
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.CoreCompileInputs.cache
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.dll
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.pdb
+D:\aulas C#\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.genruntimeconfig.cache

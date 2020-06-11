@@ -1,0 +1,13 @@
+D:\aulas C#\ExLINQDois\ExLINQDois\bin\Debug\netcoreapp3.1\ExLINQDois.exe
+D:\aulas C#\ExLINQDois\ExLINQDois\bin\Debug\netcoreapp3.1\ExLINQDois.deps.json
+D:\aulas C#\ExLINQDois\ExLINQDois\bin\Debug\netcoreapp3.1\ExLINQDois.runtimeconfig.json
+D:\aulas C#\ExLINQDois\ExLINQDois\bin\Debug\netcoreapp3.1\ExLINQDois.runtimeconfig.dev.json
+D:\aulas C#\ExLINQDois\ExLINQDois\bin\Debug\netcoreapp3.1\ExLINQDois.dll
+D:\aulas C#\ExLINQDois\ExLINQDois\bin\Debug\netcoreapp3.1\ExLINQDois.pdb
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.csprojAssemblyReference.cache
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.AssemblyInfoInputs.cache
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.AssemblyInfo.cs
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.csproj.CoreCompileInputs.cache
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.dll
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.pdb
+D:\aulas C#\ExLINQDois\ExLINQDois\obj\Debug\netcoreapp3.1\ExLINQDois.genruntimeconfig.cache

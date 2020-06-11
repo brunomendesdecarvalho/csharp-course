@@ -1,0 +1,12 @@
+D:\aulas C#\Action\Action\bin\Debug\netcoreapp3.1\Action.exe
+D:\aulas C#\Action\Action\bin\Debug\netcoreapp3.1\Action.deps.json
+D:\aulas C#\Action\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.json
+D:\aulas C#\Action\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.dev.json
+D:\aulas C#\Action\Action\bin\Debug\netcoreapp3.1\Action.dll
+D:\aulas C#\Action\Action\bin\Debug\netcoreapp3.1\Action.pdb
+D:\aulas C#\Action\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfoInputs.cache
+D:\aulas C#\Action\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfo.cs
+D:\aulas C#\Action\Action\obj\Debug\netcoreapp3.1\Action.csproj.CoreCompileInputs.cache
+D:\aulas C#\Action\Action\obj\Debug\netcoreapp3.1\Action.dll
+D:\aulas C#\Action\Action\obj\Debug\netcoreapp3.1\Action.pdb
+D:\aulas C#\Action\Action\obj\Debug\netcoreapp3.1\Action.genruntimeconfig.cache

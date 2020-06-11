@@ -1,0 +1,12 @@
+D:\aulas C#\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.exe
+D:\aulas C#\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.deps.json
+D:\aulas C#\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.runtimeconfig.json
+D:\aulas C#\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.runtimeconfig.dev.json
+D:\aulas C#\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.dll
+D:\aulas C#\LINQIntro\LINQIntro\bin\Debug\netcoreapp3.1\LINQIntro.pdb
+D:\aulas C#\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.AssemblyInfoInputs.cache
+D:\aulas C#\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.AssemblyInfo.cs
+D:\aulas C#\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.csproj.CoreCompileInputs.cache
+D:\aulas C#\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.dll
+D:\aulas C#\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.pdb
+D:\aulas C#\LINQIntro\LINQIntro\obj\Debug\netcoreapp3.1\LINQIntro.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\aulas C#\Func\Func\obj\Debug\netcoreapp3.1\Func.AssemblyInfoInputs.cache
+D:\aulas C#\Func\Func\obj\Debug\netcoreapp3.1\Func.AssemblyInfo.cs
+D:\aulas C#\Func\Func\obj\Debug\netcoreapp3.1\Func.csproj.CoreCompileInputs.cache
+D:\aulas C#\Func\Func\bin\Debug\netcoreapp3.1\Func.exe
+D:\aulas C#\Func\Func\bin\Debug\netcoreapp3.1\Func.deps.json
+D:\aulas C#\Func\Func\bin\Debug\netcoreapp3.1\Func.runtimeconfig.json
+D:\aulas C#\Func\Func\bin\Debug\netcoreapp3.1\Func.runtimeconfig.dev.json
+D:\aulas C#\Func\Func\bin\Debug\netcoreapp3.1\Func.dll
+D:\aulas C#\Func\Func\bin\Debug\netcoreapp3.1\Func.pdb
+D:\aulas C#\Func\Func\obj\Debug\netcoreapp3.1\Func.dll
+D:\aulas C#\Func\Func\obj\Debug\netcoreapp3.1\Func.pdb
+D:\aulas C#\Func\Func\obj\Debug\netcoreapp3.1\Func.genruntimeconfig.cache
